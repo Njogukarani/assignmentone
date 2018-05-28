@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Football 101</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+	<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+	<script type="text/javascript" src="bootstrap/js/jquery.min.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-inverse">
+		<div class="container">
+			<div class="navabar-header">
+			<a href="" class="navbar-brand">Football101</a>
+		</div>
+		<ul class="navbar-nav">
+			<li class="active"><a href="#">News</a></li>
+			<li><a href="#">Transfers</a></li>
+			<li><a href="#">Leagues</a></li>
+			<li><a href="#">Fixtures</a></li>
+			<li><a href="#">aboutus</a></li>
+		</ul>
+		</div>
+	</nav>
+	
+	<div id="league">
+		<h2>Champions League Final</h2>
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="real_madrid_cf.png" width="450px" height="300px" alt="real_madrid_cf">
+				<p>Real Madrid are in their 4th champions league final in 5 years having proven to be dominant in Europe having conqured Italian champions in the semi final tie in a thrilling match that saw the Italian champions loose 4-3 on aggregate after qualifying for their second successive semi-final.It would have been the perfect farewell for goalkeeper and skipper Gianlugi Buffon but it was not to be so.The 40-year-old Skipper would be denied the chance after a late Ronaldo Goal sealed their fate.Real Madrid Top Goal Scorer will be lookin to finish as top Scorer and win the Champions League for a record five times as player </p>
+			</div>
+			<div class="col-sm-6">
+				<img src="cristiano-ronaldo.jpg" width="450px" height="300px" alt="ronaldo">
+				<p>Ronaldo has spearheaded the Los Blancos to the third Champions League finals in a row and will also be hoping to help his side win the trophy for the third time in three consecutive seasons.Cristiano Ronaldo is Real Madrid’s talisman heading into Saturday’s Champions League final against Liverpool.The Portugal international has won almost everything there is to win in world football.He boasts a staggering five Ballon d’Or honours and was named PFA Play of the Year twice during his days at Manchester United. </p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="thumb-no-image-2.jpg" width="450px" height="300px" alt="liverpool logo">
+				<p>Liverpool got to their 8th Champions League final in their History after a convincing 7-6 win against Italian side As Roma.Its been an incredible campaign for English side with it being the only side to register three players with 10 plus goals in the champions league with the front trio of Mane,Salah and Firmino registering 88 goals between them in all competions. Liverpool look forward to becoming 6 times winners of the famed Champions League Cup if they can beat favourites and holders Real Madrid who look to win the cup for a third consecutive time</p>
+			</div>
+			<div class="col-sm-6">
+				<img src="thumb_55073_default_news_size_5.jpeg" width="450px" height="300px" alt="liverpool squad">
+				<p>Liverpool are endearingly excited about getting back to this stage - their eighth final but first in 11 years - and know that they are inferior to Madrid. They also know that such excitement - or, rather, the electrical charge that Klopp infuses his team with - is the core of their best quality and the ability to regularly best such sides. They have all the belief that comes from that.The Liverpool squad, however, are said to be “tuned in” to that. Klopp has his team ready to undercut any Real overconfidence, to fatally challenge any complacency.The German spoke of how Liverpool will “adjust” to what Madrid do, and therein might lie the winning of this game.</p>
+			</div>
+		</div>
+	</div>
+	<div id="other">
+		<h3>Other News</h3>
+		<div class="row">
+			<div  class="col-xs-3">
+				<img src="unnamed.jpg" width="300px" height="300px" alt="iniesta in china">
+				<p>Barcelona legend Andres Iniesta joined Japan's Vissel Kobe on Thursday, the club's owner Hiroshi Mikitani said, describing him as a <q>world-class</q> player.<q>I am pleased to announce today that Andres Iniesta will be signing up to play with Vissel Kobe after his historic career at FC Barcelona</q> Mikitani told reporters in Tokyo.The 34-year-old Spanish World Cup winner, who lifted 32 major trophies and made 674 appearances for Catalan giants Barca was unveiled by Vissel at a glitzy news conference in Tokyo.Iniesta announced last month that he would be leaving Barca at the end of the season, bringing to an end a 22-year association with the club.The midfielder has enjoyed a glittering career, winning eight La Liga and four Champions League titles.He played his final game for Barcelona in a 1-0 win over Real Sociedad at the weekend in an emotional farewell to the club he joined as a schoolboy.</p>
+			</div>
+			<div class="col-xs-3">
+				<img src="gettyimages-960961662.jpg" width="300px" height="300px" alt="ronaldo vs salah">
+				<p>As it’s normally the case when it comes to a major final, the subplots are just as intriguing as the main event and they don’t come much more exciting than the prospect of seeing Cristiano Ronaldo and Mohamed Salah battle it out for European soccer’s biggest trophy.The pair have been integral to their respective sides’ march towards Kiev and have both scored 44 goals in all competitions this season, although the latter has played eight more games than the former.Ronaldo has shrugged off an indifferent start to the season to plunder 15 goals in the Champions League, making him the competition’s top scorer going into the final.Salah, meanwhile, has been an absolute revelation in his first season back in the Premier League since moving to Liverpool from AS Roma in the summer for $49.2 million last summer. The Egyptian has scored 11 goals in the Champions League–including one in the qualifying stage–and set the record for the most goals in a Premier League over 38 games, breaking a record previously jointly held by Ronaldo, Luis Suarez and Alan Shearer</p>
+			</div>
+			<div class="col-xs-3">
+				<img src="index.png" width="300px" height="300px">
+				<p>The FIFA World Cup kicks off in Russia in exactly 20 days’ time. To mark the occasion, RT Sport brings you 20 key numbers you need to know about Russia 2018. Russia 2018 will see 32 teams battle it out for World Cup glory. It could be the last World Cup under the 32-team format, with discussions to extend the tournament to 48 teams for Qatar 2022. There will be a total of 64 games played at the World Cup. Russia and Saudi Arabia will kick things off in the opening match on June 14 at Moscow's Luzhniki Stadium, with the tournament culminating in the final at the same venue on July 15.  </p>
+			</div> 
+			<div class="col-xs-3">
+				<img src="1762521.jpg" width="300px" height="300px">
+				<p>Arsenal has appointed former Paris St Germain coach Unai Emery as their new manager, the Spaniard succeeding the long-serving Arsene Wenger, the Premier League club announced on Wednesday.Emery, who joined PSG in June 2016, left the French club at the end of this season, having led them to a domestic treble. The 46-year-old had previously guided Spanish side Sevilla to three Europa League titles.<q>Unai has an outstanding track record of success throughout his career, has developed some of the best young talent in Europe and plays an exciting, progressive style of football that fits Arsenal perfectly</q> Arsenal chief executive Ivan Gazidis said in a statement.<q>His hard-working and passionate approach and his sense of values on and off the pitch make him the ideal person to take us forward.</q></p>
+			</div>
+		</div>
+		<div class="video">
+			<h4>Tonight UEFA Champions League final</h4>
+			<video controls="" width="840px" height="480">
+				<source src="Football legends predict Champions League Final result Real Madrid v Liverpool.mp4" type="video/mp4">
+			</video>
+		</div>
+	</div>
+	<div class="ends">
+		<h5>The Season Ends</h5>
+	</div>
+	<div id="aboutus">
+		<h6>Welcome to Football101</h6>
+		<p>Football 101 is a site created to give football lovers all the latest scoops on Football andensure football lovers get the latest even on the move <br>
+		We give the latest news and tranfer rumors all your league action across all leagues in Kenya </p>
+	</div>
+
+</body>
+</html>

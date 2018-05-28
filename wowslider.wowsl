@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wowslider</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/epsilon/</ImageTemplate>
+            <ImageTemplateName>Epsilon</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Simon Kinuthia/Desktop/Complete Website/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Simon Kinuthia/Desktop/Complete Website</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto</TemplateFont>
+            <TemplateName>epsilon</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Simon Kinuthia/Desktop/Complete Website/FC-Barcelona-players.jpg</url>
+                <title>FC-Barcelona-players</title>
+                <filesize>65060</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Simon Kinuthia/Desktop/Complete Website/Manchester-City-Facebook-page.jpg</url>
+                <title>Manchester-City-Facebook-page</title>
+                <filesize>337719</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Simon Kinuthia/Desktop/Complete Website/unnamed.jpg</url>
+                <title>unnamed</title>
+                <filesize>76713</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Simon Kinuthia/Desktop/Complete Website/atletico-madrid-2017-2018-nike-kit-4.jpg</url>
+                <title>atletico-madrid-2017-2018-nike-kit-4</title>
+                <filesize>160157</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Simon Kinuthia/Desktop/Complete Website/Screen-Shot-2017-06-01-at-18.46.01-660x330.png</url>
+                <title>Screen-Shot-2017-06-01-at-18.46.01-660x330</title>
+                <filesize>570012</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
